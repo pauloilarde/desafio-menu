@@ -1,0 +1,90 @@
+#top-header{
+    background-color: #2b313b;
+}
+
+#header-contact {
+    padding-left: 8%;
+    padding-top: .5em;
+    text-transform: uppercase;
+    font-size: .8em;
+    color: #FFF;
+}
+
+#header-login {
+    text-align: right;
+}
+
+
+#low-header {
+    background-color: #4e555c;
+    padding-top: 2em;
+    padding-bottom: 1em;
+}
+
+#logo-image {}
+
+.banner {
+    width: 100%;
+    clear: both;
+}
+
+
+#wine {
+    padding: 2em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#wine-title {
+    color: #993366;
+    font-weight: bold;
+}
+
+#top-footer {
+    padding: 2em;
+    background-color: #f6f5f5;
+    text-decoration: none;
+    text-align: center;
+    font-size: .7em;
+    text-transform: uppercase;
+}
+
+#top-footer a {
+    font-size: .8em;
+    color: #000;
+}
+
+#mid-footer {
+    padding: 1em;
+    padding-left: 12%;
+    background-color: #4e555c;
+    color: #FFF;
+
+}
+
+#mid-footer ul{
+    list-style: none;
+    text-align: left;
+  
+}
+
+#mid-footer a {
+    color: #aaa;
+    font-size: .8em;
+    
+}
+
+#follow-us,
+#links,
+#my-account,
+#newsfeed {
+    text-transform: uppercase;
+}
+
+#lower-footer {
+    padding: 2em;
+    text-align: center;
+    background-color: #2b313b;
+    color: #FFF;
+    font-size: .6em;    
+}
